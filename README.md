@@ -26,6 +26,4 @@ This project, completed during a CERN summer program, focuses on improving the d
 
 ## Report
 
-All implementation details, system descriptions, and LabVIEW code diagrams are included in the final technical report [here]
----
-
+All implementation details, system descriptions, and LabVIEW code diagrams are included in the final technical report [here](CERN_Short_project%20%281%29.pdf)
